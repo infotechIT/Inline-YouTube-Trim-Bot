@@ -23,7 +23,7 @@ async def start(bot, message):
                 InlineKeyboardButton('Search Here', switch_inline_query_current_chat=""),
             ],
             [
-                InlineKeyboardButton('Updates', url="https://t.me/subin_works")
+                InlineKeyboardButton('Updates', url="https://t.me/infotechIT")
             ]
         ]
     if len(message.command) > 1 and  (message.command[1]).startswith("tgsucks"):
