@@ -2,6 +2,8 @@
  Telegram bot to trim and download youtube videos
 
 ## Deploy
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/infotechIT/Inline-YouTube-Trim-Bot)
+
 You can deploy this bot anywhere.
 Demo - [YouTubeBot](https://telegram.dog/trimytbot)
 
@@ -18,6 +20,3 @@ Feel Free To Contribute 😬
 
 ## License
 [![GNU Affero General Public License 3.0](https://www.gnu.org/graphics/agplv3-155x51.png)](https://www.gnu.org/licenses/agpl-3.0.en.html#header)  
-
-
-
