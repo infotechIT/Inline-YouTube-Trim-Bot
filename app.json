@@ -7,7 +7,6 @@
     "ytrimer",
   ],
   "repository": "https://github.com/infotechIT/Inline-YouTube-Trim-Bot",
-  "env": {
     },
     "BOT_TOKEN": {
       "description": "Your bot token, as a string.",
